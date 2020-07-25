@@ -1,0 +1,9 @@
+class Hello
+    fun init(a b){
+        return a + b
+    }
+
+
+fun create_hello(){
+    return new Hello(50, 50)
+}
